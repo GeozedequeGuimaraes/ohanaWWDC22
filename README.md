@@ -5,7 +5,7 @@ Projeto pensado para o Swift Student Challenge de 2022.
 
 Adoro o filme Lilo & Stitch e a mensagem que ele passa, nisso pensei em desenvolver um joguinho que mostrasse a importância do respeito as diversas configuraçōes
 familiares e levo a pessoa usuária a descobrir o que existe de comum entre essas familias aparentemente tão diferente entre si. Acredito na importância de pensarmos cada vez mais 
-em um mundo inclusivo e pensado nas diversidade e fico muito feliz de ter tido a oportunidade de desenvolver esse joguinho utilizando algo que acredito.
+em um mundo inclusivo e pensado nas diversidades e fico muito feliz de ter tido a oportunidade de desenvolver esse joguinho utilizando algo que acredito.
 
 ## Desenvolvimento👨🏽‍💻
 Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com o SwiftUI. Desenvolvi as imagens e o protótipo no figma e o codigo no Xcode.
