@@ -1,5 +1,5 @@
 ## ohanaWWDC22 📌
-## O projeto
+## O projeto 📁
 
 Projeto pensado para o Swift Student Challenge de 2022.
 
@@ -22,7 +22,7 @@ Tela Inicial
 
 <div align = "center">
   
-personagens
+Personagens
 :-------------------------:
 <img width="381" alt="hana1" src="https://user-images.githubusercontent.com/74778769/168347858-c0d57f6c-6f21-4d54-9343-263875bb9ef0.png"><img width="381" alt="hana3" src="https://user-images.githubusercontent.com/74778769/168347957-3fc26d63-462c-43e2-bbb1-0bef48b79fc2.png">
 
