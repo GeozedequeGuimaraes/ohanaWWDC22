@@ -22,7 +22,7 @@ Tela Inicial
 
 <div align = "center">
   
-personagem
+personagens
 :-------------------------:
 <img width="381" alt="hana1" src="https://user-images.githubusercontent.com/74778769/168347858-c0d57f6c-6f21-4d54-9343-263875bb9ef0.png"><img width="381" alt="hana3" src="https://user-images.githubusercontent.com/74778769/168347957-3fc26d63-462c-43e2-bbb1-0bef48b79fc2.png">
 
@@ -30,7 +30,7 @@ personagem
 
 <div align = "center">
   
-Tela Inicial 
+Jogo da memória
 :-------------------------:
 <img width="481" alt="hana4" src="https://user-images.githubusercontent.com/74778769/168374241-5b6d9999-7aad-4b00-9445-8f58ef2faaee.png">|
 
