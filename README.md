@@ -1,4 +1,4 @@
-## ohanaWWDC22 📌
+## Ohana WWDC22 📌
 ## O projeto 📁
 
 Projeto pensado para o Swift Student Challenge de 2022.
