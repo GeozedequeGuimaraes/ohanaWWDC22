@@ -1,17 +1,5 @@
 ## Ohana WWDC22 📌
-## O projeto 📁
 
-Projeto pensado para o Swift Student Challenge de 2022.
-
-Adoro o filme Lilo & Stitch e a mensagem que ele passa, nisso pensei em desenvolver um joguinho que mostrasse a importância do respeito as diversas configuraçōes
-familiares e levo a pessoa usuária a descobrir o que existe de comum entre essas familias aparentemente tão diferente entre si. Acredito na importância de pensarmos cada vez mais 
-em um mundo inclusivo e pensado nas diversidades e fico muito feliz de ter tido a oportunidade de desenvolver esse joguinho utilizando algo que acredito.
-
-## Desenvolvimento👨🏽‍💻
-Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com o SwiftUI. Desenvolvi as imagens e o protótipo no figma e o codigo no Xcode.
-Existe alguns pontos como autolayout, e aspectos visuais que precisam ser trabalhados tornando o app mais interessante.
-
-## Imagens 📸  
 <div align = "center">
 
 Tela Inicial 
@@ -35,7 +23,19 @@ Jogo da memória
 <img width="481" alt="hana4" src="https://user-images.githubusercontent.com/74778769/168374241-5b6d9999-7aad-4b00-9445-8f58ef2faaee.png">|
 
 </div>
-  
+
+## O projeto 📁
+
+Projeto pensado para o Swift Student Challenge de 2022.
+
+Adoro o filme Lilo & Stitch e a mensagem que ele passa, nisso pensei em desenvolver um joguinho que mostrasse a importância do respeito as diversas configuraçōes
+familiares e levo a pessoa usuária a descobrir o que existe de comum entre essas familias aparentemente tão diferente entre si. Acredito na importância de pensarmos cada vez mais 
+em um mundo inclusivo e pensado nas diversidades e fico muito feliz de ter tido a oportunidade de desenvolver esse joguinho utilizando algo que acredito.
+
+## Desenvolvimento👨🏽‍💻
+Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com o SwiftUI. Desenvolvi as imagens e o protótipo no figma e o codigo no Xcode.
+Existe alguns pontos como autolayout, e aspectos visuais que precisam ser trabalhados tornando o app mais interessante.
+
 ## Como utiliza? 🛠
 - Baixe o projeto atual
 - Abra no xcode 
