@@ -1,42 +1,73 @@
-## Ohana WWDC22 📌
+<div align="center">
 
-<div align = "center">
+# Ohana WWDC22 📌👨‍👩‍👧‍👦
 
-Tela Inicial 
-:-------------------------:
-<img width="481" alt="hana" src="https://user-images.githubusercontent.com/74778769/168347738-8dcd0b87-7650-4b8d-878f-dedbafb5c5ee.png">|
+### Swift Playground • WWDC22 Swift Student Challenge
 
-</div>
-
-<div align = "center">
-  
-Personagens
-:-------------------------:
-<img width="381" alt="hana1" src="https://user-images.githubusercontent.com/74778769/168347858-c0d57f6c-6f21-4d54-9343-263875bb9ef0.png"><img width="381" alt="hana3" src="https://user-images.githubusercontent.com/74778769/168347957-3fc26d63-462c-43e2-bbb1-0bef48b79fc2.png">
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com)
+[![WWDC22](https://img.shields.io/badge/WWDC22-Student_Challenge-blue?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com/wwdc22/swift-student-challenge/)
 
 </div>
 
-<div align = "center">
-  
-Jogo da memória
-:-------------------------:
-<img width="481" alt="hana4" src="https://user-images.githubusercontent.com/74778769/168374241-5b6d9999-7aad-4b00-9445-8f58ef2faaee.png">|
+---
+
+## 📖 Sobre o Projeto
+
+**Ohana** foi pensado para o **WWDC22 Swift Student Challenge**. Inspirado em *Lilo & Stitch* e na famosa frase "Ohana means family", o projeto é um jogo interativo que celebra a **diversidade familiar** e a importância do respeito a diferentes configurações familiares.
+
+> O jogo leva a pessoa usuária a descobrir o que há de comum entre famílias aparentemente tão diferentes entre si — construindo um mundo mais inclusivo e diverso.
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+
+| Tela Inicial |
+|:---:|
+| <img width="500" alt="Tela Inicial - Ohana" src="https://user-images.githubusercontent.com/74778769/168347738-8dcd0b87-7650-4b8d-878f-dedbafb5c5ee.png"/> |
+
+| Personagens | |
+|:---:|:---:|
+| <img width="360" alt="Personagem 1" src="https://user-images.githubusercontent.com/74778769/168347858-c0d57f6c-6f21-4d54-9343-263875bb9ef0.png"/> | <img width="360" alt="Personagem 2" src="https://user-images.githubusercontent.com/74778769/168347957-3fc26d63-462c-43e2-bbb1-0bef48b79fc2.png"/> |
+
+| Jogo da Memória |
+|:---:|
+| <img width="500" alt="Jogo da Memória" src="https://user-images.githubusercontent.com/74778769/168374241-5b6d9999-7aad-4b00-9445-8f58ef2faaee.png"/> |
 
 </div>
 
-## O projeto 📁
+---
 
-Projeto pensado para o Swift Student Challenge de 2022.
+## 🛠 Desenvolvimento
 
-Adoro o filme Lilo & Stitch e a mensagem que ele passa, nisso pensei em desenvolver um joguinho que mostrasse a importância do respeito as diversas configuraçōes
-familiares e levo a pessoa usuária a descobrir o que existe de comum entre essas familias aparentemente tão diferente entre si. Acredito na importância de pensarmos cada vez mais 
-em um mundo inclusivo e pensado nas diversidades e fico muito feliz de ter tido a oportunidade de desenvolver esse joguinho utilizando algo que acredito.
+Meu **primeiro projeto em SwiftUI** — desenvolvido como candidatura ao WWDC22 Swift Student Challenge. Colocando em prática:
 
-## Desenvolvimento👨🏽‍💻
-Foi o meu primeiro projeto desenvolvido a partir do meu primeiro contato com o SwiftUI. Desenvolvi as imagens e o protótipo no figma e o codigo no Xcode.
-Existe alguns pontos como autolayout, e aspectos visuais que precisam ser trabalhados tornando o app mais interessante.
+- 🎨 **Design** — imagens e protótipo criados no **Figma**
+- 🃏 **Gameplay** — mecânica de jogo da memória
+- 💜 **Propósito** — representatividade e inclusão familiar
+- 📱 **SwiftUI** — primeiro contato com o framework
 
-## Como utiliza? 🛠
-- Baixe o projeto atual
-- Abra no xcode 
-- Selecione o símbolo de "play" no xcode
+---
+
+## 🚀 Como Executar
+
+1. Clone ou baixe este repositório
+2. Abra o projeto no **Xcode**
+3. Pressione ▶️ ou **Cmd + R** para iniciar
+
+---
+
+## 👤 Autor
+
+<div align="center">
+
+**Geozedeque Guimarães**
+Estudante de Ciência da Computação — CIn-UFPE
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
+
+</div>
