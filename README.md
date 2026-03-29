@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ohana WWDC22 📌👨‍👩‍👧‍👦
+# Ohana WWDC22
 
 ### Swift Playground • WWDC22 Swift Student Challenge
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 **Ohana** foi pensado para o **WWDC22 Swift Student Challenge**. Inspirado em *Lilo & Stitch* e na famosa frase "Ohana means family", o projeto é um jogo interativo que celebra a **diversidade familiar** e a importância do respeito a diferentes configurações familiares.
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -41,30 +41,29 @@
 
 ---
 
-## 🛠 Desenvolvimento
+## Tecnologias
 
-Meu **primeiro projeto em SwiftUI** — desenvolvido como candidatura ao WWDC22 Swift Student Challenge. Colocando em prática:
-
-- 🎨 **Design** — imagens e protótipo criados no **Figma**
-- 🃏 **Gameplay** — mecânica de jogo da memória
-- 💜 **Propósito** — representatividade e inclusão familiar
-- 📱 **SwiftUI** — primeiro contato com o framework
+- **Swift** — linguagem principal do desenvolvimento
+- **SwiftUI** — primeiro contato com o framework
+- **Figma** — design das imagens e do protótipo
+- **Xcode** — ambiente de desenvolvimento
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 1. Clone ou baixe este repositório
 2. Abra o projeto no **Xcode**
-3. Pressione ▶️ ou **Cmd + R** para iniciar
+3. Pressione **Cmd + R** para iniciar
 
 ---
 
-## 👤 Autor
+## Autor
 
 <div align="center">
 
 **Geozedeque Guimarães**
+
 Estudante de Ciência da Computação — CIn-UFPE
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
